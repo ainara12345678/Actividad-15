@@ -1,0 +1,83 @@
+body{
+    background-color: #eee;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px 20px;
+}
+
+#menuPrincipal {
+    background-color: #444;
+}
+
+#menuPrincipal ul {
+    list-style: none;
+    padding: 0px;
+    text-align: center;
+}
+
+#menuPrincipal ul li {
+    display: inline;
+    margin: 0px 15px;
+    border-color: red yellow green transparent;
+    border-style: dotted;
+    border-radius: 30px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-family: serif;
+}
+
+a:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+h1 {
+    background-color: #333;
+    color: #fff;
+    margin-bottom: 0px 0px 15px 0px;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+h2 {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-shadow: red 0 -2px;
+}
+
+article {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-bottom: 10px;
+    Padding: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para la barra de navegación */
+#menuPrincipal {
+    background-color: #444;
+}
+
+.textoRojo {
+    color: red;
+}
+
+.tituloSeccion
+
